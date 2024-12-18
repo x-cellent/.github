@@ -27,3 +27,4 @@ For inquiries, collaborations, or just to say hello, reach out to us at:
 [![X (formerly Twitter) Badge](https://img.shields.io/badge/-xcellent_muc-000?style=for-the-badge&logo=X)](https://twitter.com/xcellent_muc)
 [![YouTube Badge](https://img.shields.io/badge/-Youtube-CD201F?style=for-the-badge&logo=YouTube)](https://www.youtube.com/@x-cellent)
 [![Kununu Badge](https://img.shields.io/badge/-Kununu-FFC62E?style=for-the-badge&logo=Kununu&logoColor=102B69)](https://www.kununu.com/de/x-cellent-technologies1)
+[![BlueSky Badge](https://img.shields.io/badge/-BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/x-cellent.bsky.social)
