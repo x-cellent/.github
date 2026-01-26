@@ -8,7 +8,7 @@
 
 - We build open-source infrastructure for operating cloud-native platforms.
 - Our focus is on bare metal, networking, and automation at scale.
-- Everything we do is designed to be transparent, open, and souverign.
+- Everything we do is designed to be transparent, open, and sovereign.
 
 ## Contact us
 
