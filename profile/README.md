@@ -1,6 +1,6 @@
-# <div style="background-color:white;padding:40px;border-radius:4px;">[![Logo banner for x-cellent](./pictures/x-cellent-technologies-rgb.svg)](https://www.x-cellent.com)</div>
+# <div style="background-color:white;padding:40px;border-radius:4px;">[![Logo banner for x-cellent](https://raw.githubusercontent.com/x-cellent/.github/main/profile/pictures/x-cellent-technologies-rgb.svg)](https://www.x-cellent.com)</div>
 
-# Welcome to x-cellent technologies ![-](./pictures/x-cellent-bildmarke-rgb.svg) Makers of metalstack.cloud.
+# Welcome to x-cellent technologies ![-](https://raw.githubusercontent.com/x-cellent/.github/main/profile/pictures/x-cellent-bildmarke-rgb.svg) Makers of metalstack.cloud.
 
 <h3 align='center'><a href="https://www.x-cellent.com">Website</a> • <a href="https://www.x-cellent.com/blog">Blog</a> • <a href="https://www.x-cellent.com/siteNotice">Imprint</a>
 
